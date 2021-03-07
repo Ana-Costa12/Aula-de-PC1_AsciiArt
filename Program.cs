@@ -23,6 +23,7 @@ namespace Aula_de_PC1_AsciiArt
             Console.WriteLine("\n !PARABÉNS! Você salvou a aranha!");
             Console.ResetColor();
             
+            
         }
     }
 }
